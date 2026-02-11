@@ -41,14 +41,6 @@ The app uses Core Data with the following entities:
 
 *Track all loans with filtering options for active, returned, and overdue items*
 
-## 🤝 Contributing
-
-This is a student project for educational purposes. Feel free to fork and modify for your own learning!
-
-## 📄 License
-
-This project is available for educational purposes.
-
 ## 👨‍💻 Author
 
 **Justin Pescador**  
