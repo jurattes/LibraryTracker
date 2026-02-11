@@ -23,14 +23,17 @@ The app uses Core Data with the following entities:
 
 ### Books View
 ![Books View](screenshots/books-view.PNG)
+
 *Browse and search through the library's book collection with category filters*
 
 ### Members View
 ![Members View](screenshots/members-view.PNG)
+
 *View all library members with their active loan counts*
 
 ### Borrow Book Screen
 ![Borrow Screen](screenshots/borrow-screen.PNG)
+
 *Select books and set loan durations when borrowing for members*
 
 ### Loans View
