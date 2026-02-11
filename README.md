@@ -38,6 +38,7 @@ The app uses Core Data with the following entities:
 
 ### Loans View
 ![Loans View](screenshots/loans-view.png)
+
 *Track all loans with filtering options for active, returned, and overdue items*
 
 ## 🤝 Contributing
